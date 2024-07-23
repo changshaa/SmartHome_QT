@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>png/百叶窗-栏-关.png</file>
+        <file>png/百叶窗-栏-开.png</file>
+        <file>png/百叶窗-叶子-关.png</file>
+        <file>png/百叶窗-叶子-开.png</file>
+        <file>png/背景.png</file>
+        <file>png/吊灯-关.png</file>
+        <file>png/吊灯-开.png</file>
+        <file>png/风扇-关.png</file>
+        <file>png/风扇-开.png</file>
+        <file>png/空调风力-关.png</file>
+        <file>png/空调风力-开.png</file>
+        <file>png/空调-关.png</file>
+        <file>png/空调界面-分割线-关.png</file>
+        <file>png/空调界面-分割线-开.png</file>
+        <file>png/空调-开.png</file>
+        <file>png/空调模式-关.png</file>
+        <file>png/空调模式-开.png</file>
+        <file>png/上-关.png</file>
+        <file>png/上-开.png</file>
+        <file>png/文字-除湿-未选中.png</file>
+        <file>png/文字-除湿-选中.png</file>
+        <file>png/文字-大风-未选中.png</file>
+        <file>png/文字-大风-选中.png</file>
+        <file>png/文字-猛风-未选中.png</file>
+        <file>png/文字-猛风-选中.png</file>
+        <file>png/文字-送风-未选中.png</file>
+        <file>png/文字-送风-选中.png</file>
+        <file>png/文字-微风-未选中.png</file>
+        <file>png/文字-微风-选中.png</file>
+        <file>png/文字-小风-未选中.png</file>
+        <file>png/文字-小风-选中.png</file>
+        <file>png/文字-制冷-未选中.png</file>
+        <file>png/文字-制冷-选中.png</file>
+        <file>png/文字-自动-未选中.png</file>
+        <file>png/文字-自动-选中.png</file>
+        <file>png/下-关.png</file>
+        <file>png/下-开.png</file>
+        <file>png/头像.png</file>
+    </qresource>
+</RCC>
